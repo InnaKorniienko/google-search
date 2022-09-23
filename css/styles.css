@@ -55,9 +55,6 @@ section .main .searchBox .icons svg {
   max-width: 100%;
 }
 
-section .main .img {
-  height: 92px;
-}
 
 section .main .searchBox .icons .searchIcon {
   fill: #555;
