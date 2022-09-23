@@ -23,6 +23,10 @@ section .main {
  flex-direction: column;
 }
 
+img {
+  height: 92px;
+}
+
 section .main .searchBox {
   position: relative;
   width: 100%;
