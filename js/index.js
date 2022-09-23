@@ -10,5 +10,5 @@ searchButton.onclick = function() {
 
 happyButton.onclick = function() {
     const image = document.querySelector('img');
-    image.setAttribute('src', '../img/il-makiage.png');
+    image.setAttribute('src', './img/il-makiage.png');
 }

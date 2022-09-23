@@ -81,6 +81,7 @@ section .main .searchBox .icons .keyboardIcon {
 .language {
   margin-top: 24px;
   display: flex;
+  font-size: 14px;
 }
 
 .language .title {
